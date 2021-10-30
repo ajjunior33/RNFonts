@@ -4,4 +4,5 @@ Cada branch do projeto e uma fonte configurada, basta entrar na branch desejada,
 😃 
 
 **Fontes**
-[Inter]('https://github.com/ajjunior33/RNFonts/tree/Inter')
+
+- [Inter]('https://github.com/ajjunior33/RNFonts/tree/Inter')
